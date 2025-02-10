@@ -1,6 +1,6 @@
 # Stock Market Prediction using LSTM
 ## Overview
-### This project implements a stock market prediction system using Long Short-Term Memory (LSTM) neural networks. The model forecasts stock prices based on historical data.The project follows an end-to-end pipeline, incorporating a FastAPI backend and a Streamlit frontend for user interaction.
+This project implements a stock market prediction system using Long Short-Term Memory (LSTM) neural networks. The model forecasts stock prices based on historical data.The project follows an end-to-end pipeline, incorporating a FastAPI backend and a Streamlit frontend for user interaction.
 ## Features
 ### Stock Price Prediction: Uses LSTM to predict future stock prices based on historical data.
 ### FastAPI Backend: Serves the prediction model via API endpoints.
